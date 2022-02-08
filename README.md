@@ -1,4 +1,4 @@
-# RSNA-21-brain-tumor-detection-and-classification
+# RSNA-21-brain-tumor-classification
 detects brain tumor based on MGMT values and MRI images 
 
 # streamlit link https://share.streamlit.io/hritikamk/rsna-21-brain-tumor/main/app.py
